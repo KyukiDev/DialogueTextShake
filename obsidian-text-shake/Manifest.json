@@ -1,9 +1,0 @@
-{
-  "id": "obsidian-text-shake",
-  "name": "Dialogue-Like Text Shake",
-  "version": "1.0.0",
-  "minAppVersion": "1.5.16",
-  "description": "Makes text shake letter-by-letter with a sort of RPG shaking dialogue effect.",
-  "author": "KyukiDev",
-  "isDesktopOnly": false
-}
