@@ -1,6 +1,6 @@
 # Dialogue Text Shake for Obsidian
 
-A convenient plugin to make text shake letter-by-letter like video game dialogue.
+A convenient third party plugin to make text shake letter-by-letter like video game dialogue.
 
 ## How to Use
 - Highlight any text and press `Alt + Shift + S` to apply or remove the shake.
@@ -17,5 +17,4 @@ It will likely be remade and revamped later down the line 100% humanly.
 
 - That being said, I plan on maintaining it if there are ever problems experienced. 
 - Other than that, **the plugin is shipped AS-IS.**
-
-**This plugin is provided completely AS-IS.** I am not actively maintaining this repository, fixing edge-case bugs, or taking feature requests. Feel free to fork the code and modify it however you like!
+- Whoever wants to is allowed to fork this and build upon it if I don't answer for a long while.
